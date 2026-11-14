@@ -1,0 +1,11 @@
+.fondo{
+    background: url(img/trabajando.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.overlay{
+    background: rgba(red, green, blue, alpha);
+    color: white;
+    padding: 100px 0px;
+}
